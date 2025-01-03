@@ -1,0 +1,5 @@
+cloudant
+ibmcloudant
+flask
+python-dotenv
+requests
