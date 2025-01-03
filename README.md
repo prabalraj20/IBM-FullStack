@@ -1,4 +1,4 @@
-<h1 align="center">IBM Full Stack Software Developer Certificate <br> Capstone </h1>
+<h1 align="center">IBM Full-Stack Software Developer Certificate <br> Capstone </h1>
 
 > The final project for this course has several steps that you must complete.
 > To give you an overview of the whole project, all the high-level steps are listed below.
